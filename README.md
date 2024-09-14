@@ -12,7 +12,7 @@ ___
 2. Download The Source
 3. Extract 
 4. Run cmd with administrator
-5. and type **cd c:/user/desktop/velocity/** , and type **node .**
+5. and type **cd c:/user/desktop/Selfbot-Nuker/** , and type **node .**
 
 ___
 
