@@ -3,7 +3,7 @@ ___
 
 ### ❗ • Important
 * Before, Installing make sure that you have python installed & added to path.
-* Found a bug? create an issue about it directly in [here!](https://discord.gg/287zWkWm2Z)
+* Found a bug? create an issue about it directly in [here!](https://discord.gg/51)
 * **WARNING** People have been selling and distributing malicious versions of Velocity, This is the real github. 
 ___
 
