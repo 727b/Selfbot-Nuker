@@ -1,10 +1,7 @@
-/////////////////////////////////////////////
-// Hello everyone ^-^                      //
-// Discord: @44h1                          //
-// This is A Selfbot-Nuker Script          //
-// Support-Server--> https://discord.gg/51 //
-// Coded by Turki                          //
-/////////////////////////////////////////////
+///////////////////////////
+// Hello everyone ^-^    /
+// Discord: y16t        /
+////////////////////////
 
 const colors = require('colors');
 const axios = require("axios");
@@ -12,11 +9,9 @@ const axios = require("axios");
 (async () => {
     try {
     const banner = `
-████████ ██    ██ ██████  ██   ██ ██
-   ██    ██    ██ ██   ██ ██  ██  ██
-   ██    ██    ██ ██████  █████   ██
-   ██    ██    ██ ██   ██ ██  ██  ██
-   ██     ██████  ██   ██ ██   ██ ██
+┳┓       ┓ 
+┣┫┏┓┏┓┏┓┏┣┓
+┻┛┛ ┗ ┗┻┗┛┗
 `
 
 
