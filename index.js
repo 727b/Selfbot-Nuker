@@ -16,7 +16,7 @@ const axios = require("axios");
 
 
     console.log(banner.bgWhite.yellow)
-    console.log(colors.bgCyan.white`Welcome Back Turki ^-^`)
+    console.log(colors.bgCyan.white`Welcome Back!`)
     const {Client, GatewayIntentBits} = require("discord.js-selfbot-v13")
 
 
